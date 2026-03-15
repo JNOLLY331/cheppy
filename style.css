@@ -6,7 +6,10 @@ html {
     scroll-behavior: smooth;
     overflow-x: hidden;
 }
-
+body{
+     scroll-behavior: smooth;
+    overflow-x: hidden;
+}
 .font-display {
     font-family: 'Playfair Display', serif;
 }
